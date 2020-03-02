@@ -33,7 +33,8 @@ h1,
   height: 250px;
 }
 
-.description {
+h5.description,
+p.description {
   color: #2c2c2c;
   font-weight: 400;
 }
